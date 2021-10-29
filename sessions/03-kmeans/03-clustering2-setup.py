@@ -12,10 +12,10 @@
 
 # installs
 # notebook/colab
-# ! pip install scikit-plot
+#! pip install scikit-plot
 
 # local/server
-# pip install scikit-plot
+ pip install scikit-plot
 
 
 
